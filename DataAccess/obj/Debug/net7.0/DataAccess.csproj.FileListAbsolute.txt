@@ -1,0 +1,14 @@
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\J.Fayzullayev\source\repos\DistributedSystemsAndCloudComputing\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
